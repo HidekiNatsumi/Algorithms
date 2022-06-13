@@ -1,2 +1,2 @@
 # Algorithms
-Some Algorithms That i tried making
+Some Algorithms That i tried to make
