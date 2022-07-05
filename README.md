@@ -15,4 +15,5 @@
 <li>It's an algorithm to find the solution of the famous hannoi tower game using recursions.</li>
 
 ## KnapSack Problem
--
+<li>This algorithm will solve the knapsack problem that requires to store elements into a limited storage.THhe algorithm will put 
+the elements that have the highest profit in the storage till the capacity is full.</li>
